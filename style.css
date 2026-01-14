@@ -1,0 +1,9 @@
+.divvy{
+    display: flex;
+    background-color: gray;
+    justify-content: center;
+    padding: 2%;
+}
+body{
+    background-color: lightblue;
+}
