@@ -1,19 +1,23 @@
-.divvy{
+.game_image {
+    width: 400px;
+    border: 5px rgb(14, 76, 76) solid;
     display: flex;
-    background-color: gray;
-    justify-content: center;
-    padding: 2%;
+    justify-self: center;
 }
-body{
-    background-color: lightblue;
+h2 {
+    font-family:'Gill Sans';
+    text-align: center;
 }
-.error{
-    color: rgb(0, 46, 0);
+#hello{
+    color:magenta;
 }
-.error_page{
-    flex-direction: column;
-    display: flex;
-    padding-top: 10%;
-    align-items: center;
+body {
+    background-color: bisque ;
+    text-align: center;
 
+}
+.HTW{
+    display: flex;
+    gap: 6px;
+    justify-content: center;
 }
